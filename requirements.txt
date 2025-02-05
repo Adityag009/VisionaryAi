@@ -1,0 +1,16 @@
+firecrawl
+duckduckgo-search
+openai
+pydantic
+selenium
+helium
+fastapi
+python-dotenv
+lancedb
+exa_py
+markdown2
+streamlit
+phidata
+streamlit
+pandas
+faiss-cpu
